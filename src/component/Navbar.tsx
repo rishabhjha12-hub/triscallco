@@ -1,5 +1,4 @@
 import React from 'react';
-import { MdModeStandby } from 'react-icons/md';
 
 const Navbar = () => {
   const menu = [
